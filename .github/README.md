@@ -15,7 +15,7 @@
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
 ## ⚠️ Heroku / Okteto / Railway
-[Deploy To Heroku](https://heroku.com/deploy/Team-Dangi/Dangi-Music-Bot)
+[Deploy To Heroku](https://heroku.com/deploy/)
 
 ## 🖇 Generating Pyrogram String Session
 
